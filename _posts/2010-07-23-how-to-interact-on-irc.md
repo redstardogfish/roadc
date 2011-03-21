@@ -17,10 +17,10 @@ Here's your typical conversation on your typical freenode IRC channel:
 
 {% highlight text %}
 phil> Hello guys. How are your afternoons going? It's mighty sunny outside.
-bernard> Why you're right, Phil. I have just pulled back my curtains to reveal the most immense of sun rays.
-                 It almost hurt my oculus.
-sebastian> My gosh Phil, you guys are having tremendous weather there it seems. Ours it not so good.
-                     It seems there is a hint of perspiration in the air.
+bernard> Why you're right, Phil. I have just pulled back my curtains to reveal the
+		most immense of sun rays. It almost hurt my oculus.
+sebastian> My gosh Phil, you guys are having tremendous weather there it seems. Ours
+		it not so good. It seems there is a hint of perspiration in the air.
 phil> Uh oh, that's not good. Get ready to pull out the good 'ol umbrella! hehe.
 {% endhighlight %}
 
