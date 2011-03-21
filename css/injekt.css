@@ -100,23 +100,10 @@ ul#postlist {
     margin: 0 auto;
     font-size: 0.7em;
     color: #6C6C6C;
-    padding: 15px 0;
-    margin-bottom: 15px;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    line-height: 160%;
 }
 
 #footer p.left { float: left; }
-#footer p.right { float: right; }
-
-form {
-    margin-bottom: 20px;
-}
-
-form input, form textarea {
-    font: inherit;
-    padding: 3px;
-}
-
-form textarea {
-    width: 690px;
-    margin: 10px 0;
-}
+#footer p.right { float: right; text-align: right; }
