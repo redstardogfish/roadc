@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 100%;
+    color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.2em;
+}
+
+a, a:link, a:visited, a:active {
+    color: #4B608B;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p, ul, ol, pre, hr {
+  margin-bottom: 1em;
+}
+
+#top {
+    padding: 15px 0;
+    border-bottom: 1px solid #E5E5E5;
+    background: #F7F7F7;
+}
+
+#top div {
+    width: 700px;
+    margin: 0 auto;
+}
+
+#top h1 {
+    font-size: 1.5em;
+}
+
+#top h1 a {
+    color: #535353;
+}
+
+#top .feed {
+    float: right;
+    text-align: right;
+    position: relative;
+    top: -27px;
+    width: 40px;
+}
+
+.post h2 {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.9em;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+#content {
+    width: 700px;
+    margin: 20px auto;
+    margin-bottom: 0;
+    border-bottom: 1px solid #999;
+}
+
+ul#postlist {
+    margin: 0 0 20px 0;
+    list-style-type: none;
+}
+
+#postlist li {
+    padding: 5px 0;
+}
+
+.post {
+    display: block;
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 180%;
+}
+
+#footer {
+    width: 700px;
+    margin: 0 auto;
+    font-size: 0.7em;
+    color: #6C6C6C;
+    padding: 15px 0;
+    margin-bottom: 15px;
+}
+
+#footer p.left { float: left; }
+#footer p.right { float: right; }
+
+form {
+    margin-bottom: 20px;
+}
+
+form input, form textarea {
+    font: inherit;
+    padding: 3px;
+}
+
+form textarea {
+    width: 690px;
+    margin: 10px 0;
+}
