@@ -30,8 +30,6 @@ alan> ugh..
 
 Yeah, I got a little excited at the end. I apologise for that.
 
-EDIT: Before continuing please note that [Darcy](http://blog.ninjahideout.com/) has now implemented a system wide installation script. Which you can find [here](http://rvm.beginrescueend.com/deployment/system-wide/). Huzzah!
-
 When I first started playing with RVM I wanted to come up with a way of allowing users to share rubies and install system wide gems, allowing them to have a free and open development environment which in turn increasingly nudges their dev habitat up the awesome scale. Win win.
 
 The setup I have basically mimics that of the one found [here](http://greg.nokes.name/2010/03/26/rooting-with-rvm/), an awesome post for users who want to install RVM as the root user. These are basically the steps I took (and continue to take) on my development servers:
@@ -58,5 +56,3 @@ The setup I have basically mimics that of the one found [here](http://greg.nokes
 Before you ask; yes this does mean all users of the `rvm` group have access to rubies and gems. This isn't meant to tell you the best method of configuring rvm for cross user server use, but rather the method I use.
 
 Official installation notes are [here](http://rvm.beginrescueend.com/rvm/install)
-
-Disclaimer: I take no responsibility for your sammich sucking.
