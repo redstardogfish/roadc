@@ -43,7 +43,7 @@ The setup I have basically mimics that of the one found [here](http://greg.nokes
 7. Add rvm group: `groupadd rvm`
 8. Add yourself to said group: `usermod -aG rvm injekt`
 9. Add `rvm_path` to `/etc/rvmrc`: `echo "export rvm_path=/usr/local/rvm" > /etc/rvmrc`
-10. Open up `/etc/profile` and add [these](http://pastie.org/1015720) lines
+10. Open up `/etc/profile` and add [these](https://gist.github.com/886070) lines
 11. Give the rvm group ownership to it's rightful rubies: `chown -R root:rvm /usr/local/rvm`
 12. Give write access to all members of the rvm group: `chmod -R g+w /usr/local/rvm`
 13. Switch back to non-root: `exit`
