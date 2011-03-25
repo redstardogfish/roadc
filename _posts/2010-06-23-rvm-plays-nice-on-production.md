@@ -30,6 +30,10 @@ alan> ugh..
 
 Yeah, I got a little excited at the end. I apologise for that.
 
+**NOTE** Before continuing please note that the regular installation script found
+[here](http://rvm.beginrescueend.com/rvm/install/) will work as expected when ran as the
+root user. This will install RVM and created shared access across all users.
+
 When I first started playing with RVM I wanted to come up with a way of allowing users to share rubies and install system wide gems, allowing them to have a free and open development environment which in turn increasingly nudges their dev habitat up the awesome scale. Win win.
 
 The setup I have basically mimics that of the one found [here](http://greg.nokes.name/2010/03/26/rooting-with-rvm/), an awesome post for users who want to install RVM as the root user. These are basically the steps I took (and continue to take) on my development servers:
