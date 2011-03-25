@@ -32,7 +32,7 @@ Yeah, I got a little excited at the end. I apologise for that.
 
 **NOTE** Before continuing please note that the regular installation script found
 [here](http://rvm.beginrescueend.com/rvm/install/) will work as expected when ran as the
-root user. This will install RVM and created shared access across all users.
+root user. This will install RVM and create shared access across all users.
 
 When I first started playing with RVM I wanted to come up with a way of allowing users to share rubies and install system wide gems, allowing them to have a free and open development environment which in turn increasingly nudges their dev habitat up the awesome scale. Win win.
 
