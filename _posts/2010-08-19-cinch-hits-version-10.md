@@ -1,3 +1,4 @@
+---
 layout: post
 title: Cinch hits version 1.0
 ---
