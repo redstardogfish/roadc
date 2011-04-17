@@ -13,7 +13,7 @@ I made the push to Chromium about the same time as the [Chrome Web Store](https:
 
 There was something else that bothered me with Chrome. It was the way [GitHub](http://github.com) styles their *code* font. It just looked extremely ugly in Chrome, though fine in Firefox or Opera. Luckily installing the [Stylebot](https://chrome.google.com/webstore/detail/oiaejidbmkiecgbjeifoejpgmdaleoha) extension meant I could customize any webpage I wished, and stylebot saved my CSS for the next time I visited the page. Neat, right?
 
-Omce I used Stylebot to change the font to 
+Once I used Stylebot to change the font to 
 [Bitstream Vera Sans Mono](http://en.wikipedia.org/wiki/Bitstream_Vera),
 it looked much **much** nicer. It may be such a subtle difference to many people, but I spend a lot of time reading code on GitHub, and this really really frustrated me. It's nice to see how easy it can be customized.
 
