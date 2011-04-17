@@ -26,6 +26,10 @@ p, ul, ol, pre, hr {
   margin-bottom: 1em;
 }
 
+img { 
+  border: none;
+}
+
 #top {
     padding: 15px 0;
     border-bottom: 1px solid #E5E5E5;
