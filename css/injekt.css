@@ -26,7 +26,7 @@ p, ul, ol, pre, hr {
   margin-bottom: 1em;
 }
 
-img { 
+img {
   border: none;
 }
 
@@ -90,7 +90,12 @@ ul#postlist {
 }
 
 #postlist li {
-    padding: 5px 0;
+    padding: 4px 0;
+}
+
+#postlist li span {
+    color: #929292;
+    font-size: 0.8em;
 }
 
 .post {
