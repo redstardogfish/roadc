@@ -1,14 +1,17 @@
-pre {
-    line-height: 150%;
-    font-family: 'Bitstream Vera Sans Mono','Courier',monospace;
-    font-size: 13px;
-}
 .highlight {
-    padding: 10px 10px 5px 10px;
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
     margin-top: 20px;
-    margin-bottom: 20px;
+}
+.highlight pre {
+    line-height: 140%;
+    font-family: 'Bitstream Vera Sans Mono','Courier',monospace;
+    font-size: 14px;
+    background-color: #F8F8F8;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 6px 10px;
+    overflow: auto;
 }
 .highlight .c{color:#998;font-style:italic;}
 .highlight .err{color:#a61717;background-color:#e3d2d2;}
